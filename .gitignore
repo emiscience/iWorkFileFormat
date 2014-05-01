@@ -1,8 +1,11 @@
 
-Externals/intermediate
-Externals/packages
-Externals/prebuilt
-Externals/build
+iWorkFileInspector/Externals/intermediate
+iWorkFileInspector/Externals/packages
+iWorkFileInspector/Externals/prebuilt
+iWorkFileInspector/Externals/build
+
+iWorkFileInspector/Externals/proto*
+iWorkFileInspector/Externals/snappy*
 
 # OSX Specific System Files
 .DS_Store
